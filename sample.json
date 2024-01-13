@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "Massive twist in ugly cricket controversy",
+      "description": "The Boxing Day Test has been won by Australia in a thrilling finish on day four, but a crucial moment soured the game for Pakistan as the tourists crept towards a historic victory.",
+      "url": "https://www.news.com.au/sport/cricket/fresh-twist-in-mohammad-rizwan-dismissal-as-pakistan-lose-boxing-day-test/news-story/4d4a0e3b375508fa9b6822e6799e542c",
+      "urlToImage": "https://content.api.news/v3/images/bin/f7f69ffb3f268025beece80392fe670a",
+      "publishedAt": "2023-12-30T03:10:00Z",
+      "content": "The Boxing Day Test has been won by Australia in a thrilling finish on day four, but a crucial moment soured the game for Pakistan as the tourists crept towards a historic victory.\r\nMohammad Rizwan’s… [+3649 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Broad and Lionesses recognised in New Year Honours",
+      "description": "Former England cricketer Stuart Broad and England footballers Millie Bright, Mary Earps and Lauren Hemp are recognised in the New Year Honours.",
+      "url": "http://www.bbc.co.uk/sport/67835939",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/4EB2/production/_132164102_bbc-sport-index-imagery-3-split-images-gradient-6c833db1-12bf-4adb-8467-6bfd12da351e.png",
+      "publishedAt": "2023-12-30T00:07:16.3362116Z",
+      "content": "Lauren Hemp, Rob Burrow and Kevin Sinfield are among sporting figures recognised in the New Year's Honours\r\nMembers of England's Lionesses squad and former cricketer Stuart Broad are among the sporti… [+7715 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "BBL cricket star convicted of rape",
+      "description": "Nepali cricket star Sandeep Lamichhane was on Friday convicted of rape after a repeatedly delayed trial that had left him free to continue his sporting career.",
+      "url": "https://www.news.com.au/sport/cricket/bbl-spinner-sandeep-lamichhane-convicted-of-rape/news-story/b239d7be5040a9c06508f3d79bda0e65",
+      "urlToImage": "https://content.api.news/v3/images/bin/361978443fb48094faf37f06d67d0288",
+      "publishedAt": "2023-12-29T21:49:00Z",
+      "content": "Nepali cricket star Sandeep Lamichhane was on Friday convicted of rape after a repeatedly delayed trial that had left him free to continue his sporting career.\r\nLamichhane, 23, was once the poster bo… [+2536 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
